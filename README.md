@@ -1,4 +1,4 @@
-# Controle-Financeiro-
+# Controle-Financeiro
 Para acompanhar os gastos domésticos.
 
  use Python 3.12.3
