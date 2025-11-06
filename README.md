@@ -2,8 +2,11 @@
 Para acompanhar os gastos domésticos.
 
  use Python 3.12.3
+ 
  Livre para usar/alterar/modificar    :)
+ 
  não contém componentes pagos (all free) 
+ 
  
 ---------------------------------------------------------------------------------------------------------------
   Instalar o virtual environment
@@ -24,11 +27,12 @@ Para acompanhar os gastos domésticos.
                                        Baixar o instalador em sqlitebrowser.org e executar o .msi (windows)
 
   Para Compilar
+  
                         pyinstaller -F -w finplan.py --hidden-import='PIL._tkinter_finder'   (Linux)
                         
                         pyinstaller -F -w finplan.py                                         (Windows)
 
-  Autor:  Paulo Farnocchi     Data: 2024      Local: Maringá - Paraná                
+       Autor: Paulo Farnocchi    Data: 2024      Local: Maringá   - Paraná
 ---------------------------------------------------------------------------------------------------------------
 
 Aplicativo construido para controlar minhas contas e mostrar evolução salarial e gastos.
