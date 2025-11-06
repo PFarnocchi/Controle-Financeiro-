@@ -1,16 +1,13 @@
 # Controle-Financeiro-
 Para acompanhar os gastos domésticos.
 
-
  use Python 3.12.3
- 
  Livre para usar/alterar/modificar    :)
- 
  não contém componentes pagos (all free) 
  
-
 ---------------------------------------------------------------------------------------------------------------
   Instalar o virtual environment
+  
                                        python -m venv .venv
                                        source .venv/bin/activate   (Linux)
                                        C:\Pasta_Projeto\fin_control>venv\scripts\activate (Windows) 
