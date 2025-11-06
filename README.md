@@ -20,7 +20,7 @@ Para acompanhar os gastos domésticos.
                                                             
                                        deactivate           (desativa o virtual environment)  
 
-  Recomensável instalar o DB browser for SQLite. 
+  Recomendável instalar o DB browser for SQLite. 
   
                                        sudo snap install sqlitebrowser-casept    OU
                                        sudo apt install sqlitebrowser          (no Linux)
